@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">RoomExemple</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_competence">Competence...</string>
+    <string name="button_save">Sauvegarde</string>
+    <string name="empty_not_saved">Competence vide: non sauvegardé</string>
+    <string name="supprime_tout"> Supprimez toutes les compétences</string>
+    <string name="title_activity_affiche_matiere_web"> Affichage via une page Web</string>
+    <string name="texte_slam3">
+        <![CDATA[
+        <h1>SLAM3 : conception et adaptation d\'une base de données</h1>\n
+        Ce module aborde les savoirs et savoir-faire liés à la conception et à l\’adaptation d\’une base de
+données et à la mise en œuvre des outils de programmation associés.
+Le recours à un langage de programmation associé à un SGBD permet d\’implémenter les concepts
+abordés, notamment les contraintes.
+        <h2> Savoir faire </h2>
+        <ul align="left">
+            <li> Concevoir une base de données </li>
+            <li> Valider un schéma de base de données </li>
+            <li> Programmer dans l\’environnement de développement associé à un SGBD </li>
+        </ul>
+        <h2> Savoirs associés </h2>
+        <ul align="left">
+            <li> Modèles de représentation des données </li>
+            <li> Représentation et implémentation des contraintes </li>
+            <li> Langage de programmation associé à un SGBD </li>
+        </ul>
+         <h2> Contextes SIO </h2>
+<h3>Bases de données utilisées  </h3>
+<ul align="left">
+            <li> MySQL (MariaDb) en 1ère et 2éme année </li>
+            <li> SQL Server 2016 avec Transact SQL en 2ème année </li>
+            <li> SQLite en 2ème année </li>
+        </ul>
+        <h3>ORM utilisés  </h3>
+<ul align="left">
+            <li> Eloquent (Framework Laravel) </li>
+            <li> Room: application Android développée sous Android Studio </li>
+        </ul>
+        <h3>Outil de modélisation  </h3>
+<ul align="left">
+            <li> Visual Paradigm pour la modélisation conceptuelle UML: diagrammes de classe, use case, activity, sequence </li>
+</ul>
+
+        <h3>Web Services  </h3>
+<ul align="left">
+            <li> Accès à des Web services REST, modèle de données JSON, via Laravel/PHP, Vue.js-JS </li>
+            <li> Développement d\'une API REST, données au format JSON </li>
+</ul>
+        ]]>
+    </string>
+    <string name="texte_slam4">
+    <![CDATA[
+	<h1>SLAM4 : Réalisation et maintenance de composants logiciels</h1>\n
+	Ce module aborde les savoirs et savoir-faire liés à la mise en oeuvre d\’environnements de développement.
+Il s\’intéresse notamment à l\’utilisation et à l\’enrichissement de bibliothèques de composants logiciels et à la programmation,
+notamment au sein d’un framework.
+	<h2>Savoir faire</h2>
+	<ul align="left">
+		<li> Programmer un composant logiciel </li>
+		<li> Exploiter une bibliothèque de composants </li>
+		<li> Adapter un composant logiciel </li>
+		<li> Valider et documenter un composant logiciel </li>
+		<li> Programmer au sein d’un framework </li>
+	</ul>
+	<h2>Savoir associés</h2>
+	<ul align="left">
+		<li> Caractéristiques d’un framework </li>
+		<li> Techniques de gestion des évènements </li>
+		<li> Techniques de gestion des erreurs </li>
+		<li> Techniques de sécurisation </li>
+		<li> Persistance et couche d’accès aux données, technologies et techniques associées </li>
+		<li> Techniques et outils d’analyse et de rétro-conception </li>
+		<li> Techniques de test unitaire et d’intégration d’un composant logiciel </li>
+	</ul>
+]]>
+</string>
+    <string name="modifCompetence">Modifiez la competence</string>
+</resources>
